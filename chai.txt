@@ -1,2 +1,5 @@
 practicing the github
+<<<<<<< HEAD
 abc
+=======
+>>>>>>> 495298e58903cb6e17367546f5a955640cb8411e
